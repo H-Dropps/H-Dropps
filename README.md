@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dropps</h1>
 <h3 align="center">I want to be a front-end and back-end developer.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=h-dropps&label=Profile%20views&color=0e75b6&style=flat" alt="h-dropps" /> </p>
-
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Se quiser é só chamar la:</h3>
 <p align="left">
 <a href="https://discord.gg/Dropps#2305" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Dropps#2305" height="30" width="40" /></a>
 </p>
